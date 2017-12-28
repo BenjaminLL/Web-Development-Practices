@@ -1,1 +1,3 @@
 # Web-Development-Practices
+
+This repoistory contains some practices for HTML, CSS, JAVASCRIPT...
