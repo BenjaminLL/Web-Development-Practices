@@ -1,0 +1,35 @@
+body {
+	background-image: url(https://source.unsplash.com/xulIYVIbYIc);
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+	color: white;
+}
+
+#content {
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+hr {
+	max-width: 400px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+	width: 90%;
+}
+
+h1 {
+	font-weight: 600;
+	font-size: 4em;
+}
+
+h3 {
+	font-weight: 10;
+	font-size: 1.25em;
+}
+
+html {
+	height: 100%;
+}
